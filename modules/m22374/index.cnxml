@@ -1,0 +1,57 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Semiconductor Nanoparticles</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m22374</md:content-id>
+  <md:title>Semiconductor Nanoparticles</md:title>
+  <md:abstract/>
+  <md:uuid>85c43a1a-ee8a-4e8a-96b7-c92163258ffc</md:uuid>
+</metadata>
+
+<content>
+    <para id="id2056028">The most studied non-oxide semiconductors are cadmium chalcogenides (CdE, with E = sulfide, selenide and telluride). CdE nanocrystals were probably the first material used to demonstrate quantum size effects corresponding to a change in the electronic structure with size, i.e., the increase of the band gap energy with the decrease in size of particles (<link target-id="id554545"/>). These semiconductors nanocrystals are commonly synthesized by thermal decomposition of an organometallic precursor dissolved in an anhydrous solvent containing the source of chalcogenide and a stabilizing material (polymer or capping ligand). Stabilizing molecules bound to the surface of particles control their growth and prevent particle aggregation. </para>
+
+
+<figure id="id554545"><media id="id554545_media" alt="">
+            <image mime-type="image/jpg" src="../../media/QuantumDots1.jpg" id=" id554545__onlineimage" width="300" print-width="2in"/>
+          </media>
+<caption>Picture of cadmium selenide (CdSe) quantum dots, dissolved in toluene, fluorescing brightly, as they are exposed to an ultraviolet lamp, in three noticeable different colors (blue ~481 nm, green ~520 nm, and orange ~612 nm) due to the quantum dots' bandgap (and thus the wavelength of emitted light) depends strongly on the particle size; the smaller the dot, the shorter the emitted wavelength of light. The "blue" quantum dots have the smallest particle size, the "green" dots are slightly larger, and the "orange" dots are the largest.
+</caption>
+</figure>
+
+
+
+
+    <para id="id5542810">Although cadmium chalcogenides are the most studies semiconducting nanoparticles, the methodology for the formation of semiconducting nanoparticles was first demonstrated independently for InP and GaAs, e.g., <link target-id="eip-3346"/>. This method has been adapted for a range of semiconductor nanoparticles. </para>
+
+<equation id="eip-3346"><media id="id22222_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Eq81.jpg" id="id22222__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+</equation>
+
+
+    <para id="id1170636494150">In the case of CdE, dimethylcadmium Cd(CH<sub>3</sub>)<sub>2</sub> is used as a cadmium source and bis(trimethylsilyl)sulfide, (Me<sub>3</sub>Si)<sub>2</sub>S, trioctylphosphine selenide or telluride (TOPSe, TOPTe) serve as sources of selenide in trioctylphosphine oxide (TOPO) used as solvent and capping molecule. The mixture is heated at 230-260 °C over a few hours while modulating the temperature in response to changes in the size distribution as estimated from the absorption spectra of aliquots removed at regular intervals. These particles, capped with TOP/TOPO molecules, are non-aggregated (<link target-id="id5545"/>) and easily dispersible in organic solvents forming optically clear dispersions. When similar syntheses are performed in the presence of surfactant, strongly anisotropic nanoparticles are obtained, e.g., rod-shaped CdSe nanoparticles can be obtained. </para>
+
+
+<figure id="id5545"><media id="id5545_media" alt="">
+            <image mime-type="image/jpg" src="../../media/CdSe QD.jpg" id=" id5545__onlineimage" width="300" print-width="2in"/>
+          </media>
+<caption>TEM image of CdSe nanoparticles. </caption>
+</figure>
+
+
+
+    <para id="id1170630287650">Because Cd(CH<sub>3</sub>)<sub>2</sub> is extremely toxic, pyrophoric and explosive at elevated temperature, other Cd sources have been used. CdO appears to be an interesting precursor. CdO powder dissolves in TOPO and HPA or TDPA (tetradecylphosphonic acid) at about 300 °C giving a colorless homogeneous solution. By introducing selenium or tellurium dissolved in TOP, nanocrystals grow to the desired size. </para>
+    <para id="id1114631">Nanorods of CdSe or CdTe can also be produced by using a greater initial concentration of cadmium as compared to reactions for nanoparticles. This approach has been successfully applied for synthesis of numerous other metal chalcogenides including ZnS, ZnSe, and Zn<sub>1-x</sub>Cd<sub>x</sub>S. Similar procedures enable the formation of MnS, PdS, NiS, Cu<sub>2</sub>S nanoparticles, nano rods, and nano disks. </para>
+    <section id="id1170627835832">
+      <title>Bibliography</title>
+      <list id="id1170630566506" list-type="bulleted"><item>C. R. Berry, <emphasis effect="italics">Phys. Rev.</emphasis>, 1967, <emphasis effect="bold">161</emphasis>, 848.</item>
+        <item>M. D. Healy, P. E. Laibinis, P. D. Stupik, and A. R. Barron, <emphasis effect="italics">J. Chem. Soc., Chem. Commun.</emphasis>, 1989, 359.</item>
+        <item>L. Manna, E. C. Scher, and A. P. Alivisatos, <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 2000, <emphasis effect="bold">122</emphasis>, 12700.</item>
+        <item>C. B. Murray, D. J. Norris, and M. G. Bawendi, <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 1993, <emphasis effect="bold">115</emphasis>, 8706.</item>
+        <item>Z. A. Peng and X. Peng, <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 2002, <emphasis effect="bold">12</emphasis>, 3343.</item>
+        <item>R. L. Wells, C. G. Pitt, A. T. McPhail, A. P. Purdy, S. R. B. Shafieezad, and Hallock <emphasis effect="italics">Chem. Mater.</emphasis>, 1989, <emphasis effect="bold">1</emphasis>, 4. </item>
+        <item>X. Zong, Y. Feng, W. Knoll, and H. Man, <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 2003, <emphasis effect="bold">125</emphasis>, 13559.</item>
+      </list>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,178 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Kitchen Synthesis of Nanorust</title>
+  <metadata>
+  <md:content-id>m20813</md:content-id><md:title>Kitchen Synthesis of Nanorust</md:title>
+  <md:abstract>A kitchen synthesis of nanorust for the removal of arsenic in Third World countries</md:abstract>
+  <md:uuid>46424947-c9b2-48dd-885e-b36cdc615753</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m20813/latest/NanorustReport09.doc" strength="3">NanorustReport09</link>
+      <link url="http://cnx.org/content/m20813/latest/NanorustPrelab09.doc" strength="3">NanorustPreLab09</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id16474492">
+      <emphasis effect="bold">Kitchen Synthesis of Nanorust</emphasis>
+    </para>
+    <para id="id18634981">
+      <emphasis effect="bold">J.T. Mayo, Courtney Payne, Lauren Harrison, Cafer Yavuz, Dr. Mary McHale, Professor Vicki Colvin</emphasis>
+    </para>
+    <para id="id17981133">Objectives</para>
+    <list id="id17842479" list-type="bulleted">
+      <item>To perform a kitchen synthesis </item>
+      <item>To obtain functional iron oxide nanocrystals that can be used for water purification of arsenic in Third World countries by using everyday items found in any kitchen.</item>
+      <item>To appreciate the many forms of iron and the many uses of iron oxide nanocrystals.</item>
+      <item>To appreciate the advanced analytical instruments that are used in the continuing research of nanotechnology.</item>
+      <item>Remember: Thinking simple saves money and lives.</item>
+    </list>
+    <para id="id17645043">Grading</para>
+    <para id="id13358133">Your grade will be determined according to the following:</para>
+    <list id="id15846178" list-type="bulleted">
+      <item>Pre-lab (10%)</item>
+      <item>Lab Report Form (80%)</item>
+      <item>TA points (10%)</item>
+    </list>
+    <para id="id18860830">Background</para>
+    <para id="id17988869"><figure id="id16878607"><media id="id16878607_media" alt=""><image mime-type="image/png" src="../../media/graphics1-14da.png" id="id16878607__onlineimage" height="311" width="363"/></media></figure>Having clean drinking water is one of the most fundamental necessities of life. There are many different forms of possible contamination, but among the most well-studied and problematic inorganic contaminants is arsenic. Arsenic is one of the oldest known carcinogens. In 1999, the US National Academy of Sciences reported that arsenic can cause bladder, lung and skin cancer, and possibly cause liver and kidney cancer. The physical symptoms of arsenic poisoning include: extreme fatigue, nausea, vomiting, partial paralysis, and reproductive damage.<footnote id="id17743042"><emphasis effect="bold">National Research Council.</emphasis><emphasis effect="italics">Arsenic in drinking water</emphasis>. Washington, DC, National Academy Press, 1999. </footnote> Arsenic is naturally occurring in water due to its abundance in certain types of rocks, but it can have anthropogenic origins as well.</para>
+    <para id="id17546023">Arsenic can be found all over the world, but is currently a particular problem in Third World countries due to the costly nature of water purification. It is especially abundant in Bangladesh, but arsenic has also been found in the ground water of Argentina, Chile, India, Mexico, Taiwan and Thailand. Additionally, closer to home, most states in the western US have levels of arsenic concentrations of greater than 10 parts per billion (10 ppb). This was not a cause for concern until the Environmental Protection Agency (EPA) in 2006 lowered the maximum allowable level of arsenic from 50 ppb to 10 ppb. In 2001, approximately 13 million Americans were drinking water that had elevated levels of arsenic in the water.<footnote id="id18890280">http://www.epa.gov/safewater/arsenic/index.html</footnote></para>
+    <para id="id18394339">Previous methods for arsenic removal have included: manganese greensand columns that have been pretreated with dilute acid, coagulation/microfiltration, iron oxide based filtration, and activated alumina. The “Arsenic Removal Using Bottom Ash” or “ARUBA” method, invented by Ashok Gadgil of the Lawrence Berkeley National Laboratory, involves coating the surface of the contaminants with bottom ash and ferric hydroxide. Bottom ash is sterile waste material from coal-fired power plants which would make the cost of remediation about 0.5 cents per kg ARUBA of which generally 4-5 grams of ARUBA is needed for 1 liter of water, initially containing 400 ppb arsenic.</para>
+    <para id="id19029909">Nanomagnetite synthesis for arsenic removal has been hailed as Forbes: ‘Top 5 Nanotech Breakthroughs of 2006’ and Esquire listed it as ‘Six Ideas That Will Change the World’ in 2007. Basically, the technique entails forming iron oxide nanocrystals that possess very unique and size-dependent characteristics for environmental remediation of arsenic contaminated water. </para>
+    <para id="id19170741">Introduction</para>
+    <figure id="id19111524">
+      <media id="id19111524_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-0281.jpg" id="id19111524__onlineimage" height="232" width="278"/>
+      </media>
+    </figure>
+    <para id="id15246378">Both iron oxide nanocrystals: Fe<sub>3</sub>O<sub>4</sub> (magnetite) and Fe<sub>2</sub>O<sub>3</sub> (maghemite, as it is a cross between MAGnetite and HEMatite) are ferrimagnetic materials which means they can behave as permanent magnets. Additionally, those oxides below 10 nanometers in diameter, exhibit superparamagnetic properties and are used as MRI contrast agents. </para>
+    <para id="id14487909">Remember that last semester, you prepared a solution of magnetite ferrofluid by mixing iron(II) chloride and iron(III) chloride in the presence of tetramethylammonium hydroxide.</para>
+    <para id="id16459862">Magnetite is the most magnetic of all the naturally occurring minerals on Earth and has shown a lot of promise in environmental remediation as it efficiently removes As(III) and As(V) from water, this efficiency of the removal increases ~200 times when the magnetite particle size decreases from 300 to 12 nm. Since arsenic contaminated drinking water is a major problem around the world, using magnetite as a sorbent shows a great deal of promise.</para>
+    <para id="id18009878">Additionally, Fe(II) compounds have been used to oxidize organic contaminants such as trichloroethylene (TCE), while inorganic contaminants such as arsenic, lead and uranium are separated out of solution. Between 10 and 20 nanometers, the contaminants can be removed from water via handheld magnets, which is an important consideration in purifying water in the Third World, where power is not a standard commodity. </para>
+    <para id="id16218545">We will produce nanocrystalline and functional iron oxides following a green approach by using everyday items and equipment found in kitchens worldwide. The nanocrystalline and functional oxides are produced by thermal decomposition of the iron-precursors in order to form highly uniform, isolatable nanocrystals of tunable size. The iron precursors will decompose into iron oxides in organic solvents (thermally stable non-polar solvents, aka fatty acids such as oleic acid) at temperatures in excess of 200ºC; the presence of amphiphilic stabilizers, in this case fatty acids derived from soap, limits the growth of crystalline products which are either magnetite, maghemite, or mixtures of both phases. </para>
+    <para id="id9596086">The beauty of this method lies in the ability to use inexpensive iron sources, such as rust, to form iron carboxylate intermediates, that when scaled to the gram level effectively produces a relatively low cost method for removal of arsenic from contaminated water (see Table 1). </para>
+    <para id="id16485970">Rust is a mixture of iron hydroxides, oxides, and in some cases even zero-valent iron, but is as effective as FeOOH used in any laboratory method. The fatty acid used in conventional methods is oleic acid, an unsaturated 18 carbon fatty acid. It can be replaced by many cooking oils that can be processed to create a homemade soap through saponification, by the addition of a base such as lye. The soap is allowed to cure for a few days and then dissolved in a weak acid, such as vinegar. The organic layer of the liquid can be collected and used without further processing. The “fatty acid mixture” or FAM is an impure fatty acid whose exact composition depends on the starting edible oil. Olive oil contains the most oleic acid; coconut oils contain more lineolic acid. For this lab, the FAM is derived from vegetable oil, a standard starting reactant. </para>
+    <table id="id16359015" summary="">
+      <tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry>Pure lab chemicals</entry>
+            <entry/>
+            <entry>Everyday chemicals</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Chemical</entry>
+            <entry>Price per kg</entry>
+            <entry>Chemical</entry>
+            <entry>Price per kg</entry>
+          </row>
+          <row>
+            <entry>FeOOH</entry>
+            <entry>$ 778.00</entry>
+            <entry>Rust</entry>
+            <entry>$ 0.20*</entry>
+          </row>
+          <row>
+            <entry>Oleic acid</entry>
+            <entry>$ 20.60</entry>
+            <entry>Edible oil (coconut oil)</entry>
+            <entry>$ 0.25</entry>
+          </row>
+          <row>
+            <entry>1-octadecene</entry>
+            <entry>$ 24.75</entry>
+            <entry>Crystal drain opener (NaOH)</entry>
+            <entry>$ 1.24</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry>Vinegar</entry>
+            <entry>$ 0.65</entry>
+          </row>
+          <row>
+            <entry>Magnetite Nanocrystals</entry>
+            <entry>
+              <emphasis effect="bold">$ 2,624.00</emphasis>
+            </entry>
+            <entry>Magnetite Nanocrystals</entry>
+            <entry>
+              <emphasis effect="bold">$ 21.7</emphasis>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id18420635"><emphasis effect="bold">Table 1. </emphasis>Cost comparison of the materials needed for a FAM/rust synthesis of magnetite nanocrystals with a conventional laboratory synthesis. Most of the savings results from the reduction in cost of the iron source. *Cost of the rust is an estimate.</para>
+    <para id="id17878424">In the kitchen synthesis, the black product that forms can be separated from the solution by simply using a handheld magnet rather than the expensive and large centrifuges used in a conventional laboratory setting. </para>
+    <para id="id18874110">Experimental Procedure</para>
+    <para id="id14483342">
+      <emphasis effect="bold">Caution!! While all of the following chemicals and utensils can be found in a kitchen, this procedure is potentially dangerous (even the soap is caustic). Gloves and goggles must be worn at all times!!</emphasis>
+    </para>
+    <para id="id18881721">Materials</para>
+    <list id="id17958404" list-type="bulleted">
+      <item>vegetable oil</item>
+      <item>lye or 100% NaOH drain opener</item>
+      <item>wooden spoon</item>
+      <item>glass bowl</item>
+      <item>5% vinegar</item>
+      <item>cooking pot</item>
+      <item>hot plate</item>
+      <item>turkey baster or plastic pipette</item>
+      <item>rust</item>
+    </list>
+    <para id="id15936207">
+      <emphasis effect="bold">Part 1: Soap making process</emphasis>
+    </para>
+    <para id="id17842086">This step requires a week of advanced preparation and has been done for you</para>
+    <list id="id11920742" list-type="enumerated" number-style="arabic">
+      <item>In a crystallization dish or a similar container, weigh 100 g. of the liquid oil (if not liquid gently melt it and keep as melted).</item>
+      <item>In a 50 mL vial (or a cup) weigh 15 g. of crystal drain opener (or caustic soda, or sodium hydroxide, or potash).</item>
+      <item>Add 30 mL of tap water and shake (or stir) until all solid is dissolved (CAUTION: solution gets hot!). While still warm pour it into the liquid oil.</item>
+      <item>Stir with a spoon (or a magnetic stir bar) for about <emphasis effect="bold">15 minutes</emphasis> (or until tracing occurs – tracing is the visible tracks of stirring).</item>
+      <item>Let it sit open to air in a hood (or ventilated area) to dry and cure for a few weeks. If a shorter time span is allotted, the soap can be dried in an oven. To help the drying process, the excess oil can be decanted after 48 hours. Use caution when decanting the soap as there may be excess unreacted NaOH present.</item>
+    </list>
+    <para id="id3793495">
+      <emphasis effect="bold">Part 2: Oleic acid from soap with commercial vinegar</emphasis>
+    </para>
+    <list id="id18830323" list-type="enumerated" number-style="arabic">
+      <item>Grate the soap given to you and weigh it. You should have approximately 30 grams. If you have extra soap, do not discard it; give it back to your TA. </item>
+      <item>Check the vinegar’s acidity (i.e. 5%).</item>
+      <item>Use 1 mL of acid for every gram of soap (i.e. 30 mL of acid, 600 mL of commercial vinegar with 5% acidity).</item>
+      <item>Combine the vinegar and soap in a cooking pot.</item>
+      <item>Heat on med-high and stir with a wooden spoon until all of the chunks are dissolved (light boiling is preferred). – This takes 15 to 30 minutes.</item>
+    </list>
+    <para id="id18344759">Caution!! This must be done a hood or other well-ventilated area!!</para>
+    <list id="id18533208" list-type="enumerated" number-style="arabic">
+      <item>Turn off the heating and cool the solution down. </item>
+      <item>Pour your solution into the 1L beaker provided. You should see two layers separating from each other.</item>
+      <item>Separate the top yellowish layer using a turkey baster or plastic pipette into a 50 mL beaker. Make sure you get as much of the organic layer that as you can out of the vinegar/acid mixture.</item>
+      <item>Separate the organic layer off again into another 50 mL beaker so that you are left with only the organic layer. This is your fatty acid mixture (FAM)</item>
+      <item>Thoroughly clean your cooking pot in the sink with soap and water.</item>
+    </list>
+    <para id="id18457554">Part 3: Magnetite nanocrystals from rust and fatty acids</para>
+    <list id="id16161100" list-type="enumerated" number-style="arabic">
+      <item>Carefully measure 0.5 grams of rust. Do not discard excess rust; put it back in the stock container.</item>
+      <item>Mix the rust with the fatty acid mixture in the cooking pot.</item>
+      <item>Cover the top of the container with a loose cap for proper ventilation. The reaction smokes and steams. This method produces 50-90 nm nanocrystals. </item>
+      <item>Start heating and timing. The rust should be heated for roughly 1 hour<emphasis effect="bold">, </emphasis>until the solution is dark black with little or no smoking. Remember to continue stirring at regular intervals. Do not heat the oil to the point of popping and spattering. Adjust the heat as necessary so that the solution only steams and smokes.</item>
+    </list>
+    <para id="id16213154">
+      <emphasis effect="bold"> Caution!! This must be done a hood or other well-ventilated area!!</emphasis>
+    </para>
+    <list id="id17873339" list-type="enumerated" number-style="arabic">
+      <item>If your rust solution looks like it might dry out, notify your TA immediately and they will provide you with extra oleic acid to complete your reaction. DO NOT LET YOUR RUST DRY ONTO THE FRYING PAN!!!!!!!</item>
+      <item>Once the rust solution appears dark black and little to no smoke is being produced, pour the nanorust solution into a 50 mL beaker.</item>
+      <item>Hold a magnet to the side of the beaker and observe what happens. Hold the magnet to the beaker for several minutes. </item>
+      <item>Clean the cooking pot thoroughly again with soap and water. If there is any black or burnt crusting, this needs to be scrubbed away. </item>
+    </list>
+  </content>
+</document>

@@ -1,0 +1,166 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Silver Nanoparticles:  A Case Study in Cutting Edge Research</title>
+  <metadata>
+  <md:content-id>m19597</md:content-id><md:title>Silver Nanoparticles:  A Case Study in Cutting Edge Research</md:title>
+  <md:abstract>Based on research performed in the Barron group by graduate student Alvin Orbaek</md:abstract>
+  <md:uuid>35fb6a0e-ba8a-4684-a0ad-7ed1614f7e7b</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://cnx.org/content/m19597/latest/AgnpReport08.doc" strength="3">AgnpReport08.doc </link>
+      <link url="http://cnx.org/content/m19597/latest/AgnpPreLab08.doc" strength="3">AgnpPreLab08.doc </link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    
+    <para id="id18282454">Alvin Orbaek, Mallam Phillips, Dr. Mary McHale, Prof. Andrew Barron,</para>
+    <section id="eip-964"><title>Objective</title><para id="eip-481">To gain an insight into nanotechnology, what it is and how it can be useful, using silver nanoparticles as an example. We will look at what exactly nanoparticles are, see how they are made, and how they can be characterized.</para><para id="eip-698">The characterization technique involves Ultra-Violet and Visible spectroscopy, so we will look briefly into the interaction of the nanoparticles and light, which will hopefully help you gain an appreciation for one of the special aspects of nanotechnology.</para><para id="eip-390">When making the nanoparticles we will do a time study allowing us to graph the spectroscopic response - which will show the nature of the particle as it grows, i.e., ripens. We can use some data to calculate the size of the nanoparticle at the beginning and at the end of our experiment.</para></section>
+    
+    
+    
+    <section id="eip-657"><title>Background</title><section id="eip-247"><title>What is nanotechnology?</title><para id="eip-127">Nano is the ancient Greek word for dwarf. In scientific terms it has been used to identify length scales that are one billionth of a unit. This is typically a meter and so you often here things that are nanometers in size. In terms of nanotechnology it has been defined as anything that has a unique property or function resulting from the size of the artifact being in the nano regime, and that the size regime is between 0.1 and 100 nm. This size range is rather broad; encompassing simple molecules to more complicated molecules like enzymes. However, these items can be looked at from many points of view, from a chemist that considers molecules, to that of an engineer that would look at how each of the molecules interacts in the bigger system and creates new materials from these building blocks. For this reason there are many disciplines that are interested in the study of nanotechnology such as Chemistry, Physics, Engineering, Biological sciences, Material Sciences, Computer Science and many more besides. For this reason nanotechnology is not a strict discipline and many people use their skills and backgrounds from other areas to contribute to research in this particular field.</para></section><section id="eip-882"><title>Why care about nanotechnology? </title><para id="eip-135">There are many effects that occur at the nanoscale that we do not notice on a larger macro scale. Most of nature actually works at the nanoscale, and by understanding the forces that are at work using knowledge from chemistry, physics and engineering one can better understand the working of organic life. Enzymes are very large molecules that are too large to consider in terms of chemistry alone, other effects come into play In order to understand the full picture we need to borrow from physics and computer modeling to gain a better understand of what is happening.</para><para id="eip-552">There are many effects that occur at the nanoscale that we do not notice on a larger macro scale. Most of nature actually works at the nanoscale, and by understanding the forces that are at work using knowledge from chemistry, physics and engineering one can better understand the working of organic life. Enzymes are very large molecules that are too large to consider in terms of chemistry alone, other effects come into play In order to understand the full picture we need to borrow from physics and computer modeling to gain a better understand of what is happening.</para><para id="eip-703">When we cross from the small scale as in molecules and atoms, to the large scale that we see with our own eyes, we travel through the nanoscale. In that scale we go from quantum physics to classical physics and a lot of very interesting effects can be used to our benefit, and actually nanoparticles are an excellent example of this. Just by virtue of their size they are able to absorb four times more light than is even shone on them! This is very different from the bulk material, it is difficult to understand in one sitting, but let’s just say that there is a coupling between the light energy and the matter of the nanoparticles that is best explained through quantum mechanics, but we won’t go into that now.</para><para id="eip-543">When you make something very large, there is lots of room for error, the more parts you have in a system the more chances there are that some of those parts can be faulty. However when you make something in the nanoscale you have far less parts in the system and each part has to be virtually perfect. Material scientists are concerned with the defects that are created in materials, because these are the parts that cause a material to break down often and stop functioning correctly. As you get into the nanoscale there are less defects and you get enhanced effects from the purer material, that don’t occur on the larger scale. One example of this is carbon nanotubes, by virtue of there shape and size they are 6 times lighter than steel, but almost 100 times stronger. There is great potential for using these in new materials in the future that are ultra lightweight and extremely strong.</para><para id="eip-406">When we make things with modern technology we have for centuries been using a top down approach, and this brings us down to a fine limit but not as fine as that on which nature works. Nanotechnology is more about understanding the fundamental forces in nature by physics, and seeing their interaction through chemistry, and then making something larger from our engineering skills. And we can always take examples from biology that has been doing this for far longer than we have. So really what we do is take a bottom up approach, so that we can create large materials that we can use, that has every part of the interaction tailored all the way from how the atoms interact and how the molecules are formed and bonded together to make building blocks for new materials and applications. This bottom up approach is a change in the way things have been done and for this reason nanotechnology is a very potent discipline, with an immense capacity for expansion.</para><para id="eip-39">In all we have only really begun to scratch the surface of what could be possible when we create things using nanotechnology, and we should be aware of this because nanotechnology is finding its way into every corner of life, from health studies, medicine, robotics, materials and maybe even food and many many more.</para></section><section id="eip-235"><title>What are nanoparticles and how are they made?</title><para id="eip-419">A simple way of seeing this is by imagining tennis balls that are squeezed down to a few billionths of a meter. The particles are rounded because they try to minimize the surface energy as much as possible; any edges will make things more energetic since typically nature follows the path of least resistance the particles tend to form colloids, or spheres with as few edges as possible. It is possible though, to direct the growth of nanoparticles into various shapes such as cubes, and tetrahedrons. We will concern ourselves with only colloidal nanoparticles for the moment.</para><para id="eip-895">The nanoparticles have a large surface area compared with the total volume. The surface area to volume ratio is interesting because chemical reactions typically occur on surfaces, so nanoparticles that have a high surface to energy ratio can be used in many interesting ways, such as in catalysis. One teaspoon of nanoparticles might weigh only 200 mg, but because of their shape and the large amount of surface area the tea spoon could have the same surface area as a whole football field! This gives them huge potential and potency compared to the bulk material. Imagine laying out a football field with a thin layer of silver, think how much silver that would need, and then compare that with the amount that is in the spoon! This high surface area to volume ratio is one of the most important properties about nanoparticles.</para><para id="eip-663">With all that surface area and the energy that exists, the nanoparticles need to be held together ‘somehow’. That is where the furry parts of the tennis ball come into play. Imagine them as small molecules that hold on to the surface of the particle and stop it from breaking up under its own energy. It is like a tree whose roots can prevent soil erosion because the soil is bonded to the root in the ground. The chemical we use in this lab is mercaptosuccinic acid, and this helps to hold the nanoparticles in shape by bonding to the surface of the particles.</para><para id="eip-711">There are a few basic points to remember about making nanoparticles:</para><para id="eip-363">1) You need a nucleation point, a place for the metal (silver in this case) to start bonding to one another and start growing into a larger particle. For this you often need some ingredient that can break down a metal salt, in this case silver nitrate, which is accomplished by using sodium borohydride. This reduces the silver nitrate into silver ions that are free then to bond with each other.</para><para id="eip-14">2) You need some mechanism to keep the particles at the nanoscale and stop them from ripping and growing into something much larger, this is accomplished using the capping agent mentioned earlier (mercaptosuccinic acid). A great deal of cutting edge research revolves around varying the capping agent in order to control the size of your nanoparticles and tailor them for specific tasks. But not only can you change the size of particles in this way, you can also change the shapes.</para></section><section id="eip-567"><title>Why silver nanoparticles? </title><para id="eip-720">Silver is a very easily oxidized material; it has been used already commercially for its anti-microbial properties from athletic wear to sterilizing water. It has a very interesting interaction with light due to a dielectric constant that makes the light response occur in the visible regime. Notably silver is one of the only metals that can be tailored to respond across the full visible spectrum.</para><para id="eip-814">Their light interaction can then be used in various fields such as photonics where new materials can be made to transport light in a similar fashion to the optical cables that we use now, but with a higher yield. These waveguides act like wires and could be made smaller and lighter than present day wires, but carry more light.</para><para id="eip-920">Another use of this light interaction can be used for imaging in biological systems, where the nanoparticles can be used as vectors to carry drugs to specific sights because of specific capping agents being used, and the internal core can be used to image the delivery and ensure the cargo is delivered correctly to the correct location in the body. One group at Rice that is working on this exciting research is the Barron lab (<link url="http://python.rice.edu/~arb/Barron.html">http://python.rice.edu/~arb/Barron.html</link>). </para></section></section>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <section id="eip-211"><title>TA Demonstration on the Hydrophobicity of Silver</title><para id="eip-739">Adapted from George Lisensky’s procedure that demonstrates the hydrophobicity of silver based on the Tollen’s test and the ability of self-assembly of thiol monolayers (SAM) on gold surfaces:</para><para id="eip-212">Essentially your TA will coat silver with a monolayer of octadecanethiol, effectively producing a non-polar surface and causing water that is dropped onto this surface to bead up.</para><para id="eip-64">Once your TA has placed a clean microscope slide in a Petri dish. Your TA will place 8 small drops (or 4 large drops) of a 0.5 M solution on the microscope slide (<link target-id="id19836277"/>). 
+
+</para>
+
+    <figure id="id19836277"><media id="id19836277_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-de86.jpg" id="id19836277__onlineimage" width="400" print-width="4.5in"/>
+      </media>
+    <caption>Image of a glucose solution beading on a glass slide. </caption></figure>
+
+
+
+
+
+
+
+
+<para id="eip-292">Then your TA will add 25 small drops (or 12 large drops) of an <link url="http://mrsec.wisc.edu/Edetc/nanolab/Agthiol/#materials2#materials2">active silver ion</link> solution (made by adding concentrated ammonia drop wise to 10 mL of 0.1 M silver nitrate solution until the initial precipitate just dissolves., followed by adding 5 mL of 0.8 M KOH solution; a dark precipitate will form (<link target-id="id17142730"/>). Add more ammonia drop wise until the precipitate just redissolves. This "active silver" solution has to be used within an hour of preparation. CAUTION: To avoid the formation of explosive silver nitride, discard any remaining active solution by washing down the drain with plenty of water) to the glucose solution and gently agitate to mix the solution. 
+
+</para>
+
+
+      <figure id="id17142730"><media id="id17142730_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-e27d.jpg" id="id17142730__onlineimage" width="400" print-width="4.5in"/>
+        </media>
+      <caption>Image of the preparation of the silver layer seen as a dark precipitate. </caption></figure>
+
+<para id="eip-430">After waiting several minutes while the solution darkens and a grayish precipitate forms, a silver mirror is also forming on the slide, though it may be obscured by the precipitate c.f., Tollen’s reagent. Your TA will use water from a wash bottle to wash off the precipitate and reveal the silver mirror (<link target-id="id20402752"/>) being careful to avoid contact with the solution since it will stain their hands. 
+
+</para>
+
+
+    
+    <figure id="id20402752"><media id="id20402752_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics3-dfb9.jpg" id="id20402752__onlineimage" width="400" print-width="4.5in"/>
+      </media>
+    <caption>Image showing the silver mirror formed on the glass slide. </caption></figure>
+    
+   
+
+
+<para id="eip-729">Your TA will remove the slide from the Petri dish ensuring that he/she does not touch the silver solution, and rinse the silver mirror with water. How attracted are the water drops to the surface? (Like attracts like.) Do water drops on silver spread out or bead up?</para><para id="eip-142">The contact angle is between the side of a drop and the slide. Is the contact angle wide (small attraction to the slide) or narrow (large attraction to the slide)? </para><para id="eip-188">Your TA will wait for the surface to appear dry. (For faster drying we will use a hair dryer.) Cover the silver with a few drops of a long chain <link url="http://mrsec.wisc.edu/Edetc/nanolab/Agthiol/#materials3#materials3">alkanethiol solution</link>, octadecanethiol, in ethanol (add a small amount of octadecanethiol, to 20 mL of ethanol. When finished, dispose of this solution by adding about 5 mL of household bleach. Let stand for several minutes then wash solution down the sink).</para><para id="eip-935">After the ethanol has evaporated, your TA will now have an alkanethiol monolayer with the sulfur atoms bound to the silver and the hydrocarbon tails pointing away. Your TA has effectively coated the surface with hydrocarbons. </para><para id="eip-811">How attracted are the water drops to the surface? (Like attracts like.) </para><para id="eip-493">Do water drops on the monolayer coated surface spread out or bead up? </para><para id="eip-6">Is the contact angle greater or less than before the alkanethiol was added? </para><para id="eip-930">Is the water attracted more to the plain glass, to the silver, or to the alkanethiol monolayer-coated silver?</para>
+    
+    
+
+    
+ 
+    
+
+</section>
+
+<section id="eip-458"><title>Experimental Procedure no1 - ripening of silver nanoparticle</title><para id="eip-664">Solutions of silver nitrate (250 mg to 500 mL) and mercaptosuccinic acid (405 mg to 500 mL) have ALL been previously prepared for you. This can be gathered from the glass bottles situated in the lab.</para><list id="eip-447" list-type="enumerated" number-style="arabic"><item>Find and open the microlab program. Ensure that the accompanying box has power and is turned on, and that it is connected to the laptop via the USB plug. Once everything is connected and you double clock the microlab.exe file, a box will open in front of you.</item>
+      <item>In the tab labeled “New” you will find the icon for the “Spectrophotometer”, please double click this.</item>
+      <item>This brings up the program that we will use, at which point you should take a reading of a blank sample, this is done by filling a vial with DI water and placing in the appropriate slot, and covering with the film case. When the blank sample is in place, click the button “Read Blank”. This will a generate a series of data points that you can see.</item>
+      <item>Please take note to read from the Absorbance tab, this is the third option on the top right.</item>
+      <item>In a beaker gather 50 mL of silver nitrate solution; use the photo spectrometer to take an absorbance measurement of the silver solution on its own. To do this place twenty drops (approx 1 mL) into the glass vial provided, and dilute to the top with DI water. Shake the vial twice to ensure the solution is homogenous. Record the UV-Vis spectrum. </item>
+      <item>Place the 50 mL silver solution into the Erlenmeyer flask and start stirring, your TA will have the stir bars.</item>
+      <item>Complete the same process as above but this time uses 50 mL of the solution of mercaptosuccinic acid. Please make sure to rinse out the glass vial thoroughly. Take a spectrum using the photo spectrometer of the MSA solution. </item>
+      <item>Now place the 50 mL of MSA solution into the Erlenmeyer with the silver that you are already stirring vigorously – this means stirring at such a rate that you can see a vortex created. </item>
+      <item>Take a spectrum of the solution that is currently stirring, this should include the MSA and silver. You should notice, similar to DI water, and the MSA and silver on their own, that there is no response in absorbance of either of the chemicals when analyzed combined that would indicate that the nanoparticles have not been formed yet, but all the final ingredients are already there. This is why we need to add the sodium borohydride, as this will break the silver nitrate up so the silver can bind with the sulfur atom in the MSA molecule and the silver ions can start bunching up and the nanoparticles can begin to form.</item>
+      <item>Make the sodium borohydride solution by diluting 300 mg with DI water to 100 mL using a volumetric flask. From the equation of the chemical, NaBH<sub>4</sub>, and upon the addition of water did you notice anything occurring, what happened in the reactions? (Did it change color, consistency, did gas evolve) what could have caused this? Sodium borohydride is highly hygroscopic, that means it reacts very readily with water, and the water in the atmosphere (especially in Houston) could have caused the salt to harden – this means you may have to coax the salt a little with some prodding using the spatula – without breaking the spatula!</item>
+      <item>To the solution of silver nitrate and mercaptosuccinic acid that is stirring place a few drops of the sodium borohydride solution, note the color change, then place some more sodium borohydride and note the color change again. What do you think is happening here, and why is the colors changing? What were the colors of the solution? Stop adding sodium borohydride when the color has reached a steady state and is not changing anymore. If you add too much sodium borohydride the products could come out of solution.</item>
+      <item>When you have a steady dark, black coffee color, you have added sufficient sodium borohydride Immediately take 20 drops of your Ag nanoparticle solution and place into the glass vial; make sure it is diluted down to a slightly sandy color by the addition of DI water. Place the filled vial into the slot and acquire spectroscopic data in the same manner as before, this will be your “time = 0” run – now what is different this time, compared with the last spectra you aquired? And how has this occurred? </item>
+      <item>Continue to repeat this process of taking 20 drops of your Ag nanoparticle solution and dilute in a vial and take spectroscopic data every 5 minutes for a total of 50 minutes, </item>
+      <item>When you are finished completing the experimental runs, then you can export the data so that it can be graphed in Excel. </item>
+      <item>Go to File, then scroll down to ‘Export Data as.’ and then select “Comma separated values’. This generates a file ending in .csv that can be later opened and used in Microsoft Excel; please take note where the file was saved. </item>
+      <item>Use excel to graph each of the data sets on the same graph. Complete an Area graph, with 3D visualization to graph the ripening process. You should notice some of the intensity changing from the first data set until the last – why do you think this is happening?</item>
+      <item>Using Excel again take the data from the first profile and data from the profile with the tallest peak. Graph each one separately. This is to demonstrate how the nanoparticles ripen over time. So you can see there is some movement in the system and it can take several hours before the entire system reaches some equilibrium. Note: You will not see the trough that we showed you in the PowerPoint as MicroLab does not go down to 310 nm, which is why we are posting data so that you can calculate the full width half maximum..</item>
+      <item>You have now successfully made some silver nanoparticles! Congratulations.</item>
+      <item>Finally plot a graph from the data posted online in order to calculate the diameter of the nanoparticels once you have extrapolated the full width half maximum (FWHM), using the equation:</item></list><para id="eip-0">D = 230/(FWHM-50). For help on getting the FWHM use <link target-id="FWHM-nanoparticle"/>.
+
+</para>
+
+<figure id="FWHM-nanoparticle"><media id="fwhmag" alt="A picture showing three steps to get the full width at half maximum for the UV-vis sprectra.">
+    <image mime-type="image/jpg" src="../../media/Slide1.jpg" width="450" print-width="4.5in"/>
+  </media>
+  
+<caption>A plot demonstrating the three steps to obtain the FWHM from a graph of the UV-vis spectrum for the silver nanoparticles.
+  </caption></figure>
+
+    
+    </section>
+    
+    
+    <section id="eip-973"><title>Experimental procedure no2 - lasers and colloids</title><para id="eip-41">When the nanoparticles form they are able to scatter huge amounts of light. As atoms the silver will not scatter any light, but when it is made into the form of nanoparticles the light scattering is possible to see using a simple laser light. Large chunks of silver cannot be soluble in water but it in the nanoparticle form it can be. We can use the laser pointers to see when the nanoparticles are forming.
+</para><para id="eip-436">During the first reaction you can see how sodium citrate takes a long time to create nanoparticles, at the beginning the laser does not shine through the solution. But over a period of about 20 minutes you will be able to see the nanoparticle form by using the laser light. When the nanoparticles have formed you will be able to see the laser run through the solution.</para><para id="eip-668">When you make the nanoparticles with sodium borohydride now, it is so strong it will make nanoparticles much faster. This reaction only takes about 2 minutes to occur.</para><list id="eip-445" list-type="enumerated" number-style="arabic"><title>Aim</title><item>To synthesize silver nanoparticles using two different reducing agents</item>
+<item>To see the difference in the rates of reaction between the two reducing agents</item>
+<item>To use laser pointers to determine when the nanoparticles form and hence, to see which reducing agent works faster</item>
+</list><list id="eip-501" list-type="enumerated" number-style="arabic"><title>Sodium Citrate</title><item>In a glass vessel gather 75 mL of silver nitrate solution. Put this on a hot plate and place a stir bar inside it. Start heating the solution with a medium setting, start the stir bar so that a small vortex occurs in the solution.</item>
+<item>	After a period of five minutes when the solution is getting warmer, place 2 mL of tri sodium citrate into the solution that is warming on the heat place. Make sure to add the sodium citrate drop wise. This will take about two minutes to do.</item>
+<item>	Now use a laser pointer to see if any nanoparticles have formed.</item>
+<item>	Over a period of 20 minutes you should notice a change in color that occurs because of the formation of the silver nanoparticles. Continuously use the laser pointer to look for the formation of nanoparticles.</item>
+<item>	Turn off the hot plates and take the glass away from the heat.</item>
+<item>	When the solution has cooled to room temperature place the waste in the waste container.</item></list><list id="eip-186" list-type="enumerated" number-style="arabic"><title>Sodium Borohydride</title><item>In a glass vessel gather 75 mL of silver nitrate solution. Place a stir bar inside the reaction vessel and start stirring with a speed that creates a small vortex.</item>
+<item>	Gather 50 mL of mercaptosuccininc acid (MSA) and place this inside the same vessel as the silver nitrate that you have recently got.</item>
+<item>	Use the laser to light to see if there are any nanoparticles present.</item>
+<item>	Now get your TA to help distribute some sodium borohydride for you. This is a very reactive chemical and will loose strength over time. Your TA will place sodium borohydride in the reaction vessel. </item>
+<item>While your TA is adding the sodium borohydride, check to see if any nanoparticles are forming by using the laser light.</item>
+<item>	When the reaction is completed place the materials in the waste container.</item>
+<item>	Clean all your glassware.</item>
+</list><para id="eip-141"><title>Conclusion</title>Nanoparticles are an exciting and emerging technology. There is much to learn about how to use these new structures. It is a delicate and complex process to learn how to make thing so small, but as you have discovered today, it is not impossible to do. The detection of nanoparticles can be easily achieved with the use of a hand held laser pointer. This is due to the extremely large scattering cross section that nanoparticles have.
+</para></section><section id="eip-285"><title>Additional Information</title><para id="eip-586">We use light to see things around us, that light has a certain size, or wavelength. And if something is smaller than light, we cannot use the light to see it directly, so we have to use things with smaller wavelengths. Let’s use an example, consider a hand of a certain size, and some hieroglyphics on a wall( er?). With very large hands the details in the wall are difficult to make out, but still you can note that they are there. But when you use smaller and smaller hands the details become easier to make out. It’s the same kind of idea when using the light. For us as human beings it is not usually a problem in our everyday lives, the size of the light is much smaller than the artifacts we deal with as we move around. But when looking at smaller and smaller things as in the nanoscale, we can’t use visible light because the light passes right over the objects normally, and it’s as if they don’t exist. </para><para id="eip-710">One trick around this is to use shorter wavelengths of light, like using X-rays at the hospital to image brakes and fractures of the skeletal system. And in nanotechnology what we often use are electrons, Because the wavelength of the electrons are far smaller than the object we are looking at, we can get a good picture of what is going on at the nanoscale. There are two main instruments to do this: the TEM (transmission electron microscope), and the SEM (scanning electron microscope). In the same way that the X-rays at the hospital pass through the skin but not the bones, the TEM accelerates electrons through materials, and depending on the type and size of the material the electrons either pass through or not. And we get a black and white image of our system at the nanoscale. In <link target-id="TEM-nanoparticle"/> you see a picture of the type of silver nanoparticles that you made in the lab, this was taken with a TEM in Dell Butcher Hall here at Rice. The dense silver particles don’t allow the transmission of the electrons, and we get a black and white picture of the nanoparticles. This has been calibrated and can be used to tell us the size of the particles; they are around 10 nm on average. </para>
+
+<figure id="TEM-nanoparticle"><media id="temag" alt="A TEM image of silver nanoparticles as seen using a Transmission Electron Microscope">
+    <image mime-type="image/jpg" src="../../media/TEMag.jpg" width="400" print-width="4.5in"/>
+  </media>
+  
+<caption>TEM image of silver nanoparticles, scale bar is 20 nm.
+  </caption></figure>
+
+
+<para id="eip-994">But when electrons pass through the material it is not always a clean break, some of the energy can be imparted on the materials and so it won’t pass all the way through. This can cause a secondary effect that depends on the material that is being imaged, and this is essentially how the SEM works. Instead of electrons passing through like in the X-rays in the hospital, the materials you image have a reaction to the bombardment of electrons in the electron beam. In <link target-id="SEM-nanoparticle"/> you see a bunch of larger silver nanoparticles that have been imaged using an SEM here in Dell Butcher Hall at Rice University.</para>
+
+<figure id="SEM-nanoparticle"><media id="semag" alt="An SEM image of larger silver nanoparticles as seen using a Scanning Electron Microscope">
+    <image mime-type="image/jpg" src="../../media/SEMag.jpg" width="400" print-width="4.5in"/>
+  </media>
+  
+<caption>SEM image of larger silver nanoparticles, scale bar is 500 nm.
+  </caption></figure>
+</section>
+   </content>
+</document>

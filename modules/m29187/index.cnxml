@@ -1,0 +1,109 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Graphene</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m29187</md:content-id>
+  <md:title>Graphene</md:title>
+  <md:abstract/>
+  <md:uuid>790bacf3-6512-4957-bbed-ac887a4fca7c</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168047373722">
+      <title>Introduction</title>
+      <para id="id1168038539689">Graphene is a one-atom-thick planar sheet of sp<sup>2</sup>-bonded carbon atoms that are densely packed in a honeycomb crystal lattice (<link target-id="id93555"/>). The name comes from “graphite” and “alkene”; graphite itself consists of many graphene sheets stacked together.</para>
+      
+
+<figure id="id93555"><media id=" id93555_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphene.jpg" id=" id93555__onlineimage" width="400" print-width="3in"/>
+          </media>
+        <caption>Idealized structure of a single graphene sheet. </caption></figure>
+
+
+<para id="id1168037285552"> Single-layer graphene nanosheets were first characterized in 2004, prepared by mechanical exfoliation (the “scotch-tape” method) of bulk graphite. Later graphene was produced by epitaxial chemical vapor deposition on silicon carbide and nickel substrates. Most recently, graphene nanoribbons (GNRs) have been prepared by the oxidative treatment of carbon nanotubes and by plasma etching of nanotubes embedded in polymer films.</para>
+    </section>
+    <section id="id1168050038296">
+      <title>Physical properties of graphene</title>
+      <para id="id1168038349433"> Graphene has been reported to have a Young’s modulus of 1 TPa and intrinsic strength of 130 GP; similar to single walled carbon nanotubes (SWNTs). The electronic properties of graphene also have some similarity with carbon nanotubes. Graphene is a zero-bandgap semiconductor. Electron mobility in graphene is extraordinarily high (15,000 cm<sup>2</sup>/V.s at room temperature) and ballistic electron transport is reported to be on length scales comparable to that of SWNTs. One of the most promising aspects of graphene involves the use of GNRs. Cutting an individual graphene layer into a long strip can yield semiconducting materials where the bandgap is tuned by the width of the ribbon. </para>
+      <para id="id1168044006040"> While graphene’s novel electronic and physical properties guarantee this material will be studied for years to come, there are some fundamental obstacles yet to overcome before graphene based materials can be fully utilized. The aforementioned methods of graphene preparation are effective; however, they are impractical for large-scale manufacturing. The most plentiful and inexpensive source of graphene is bulk graphite. Chemical methods for exfoliation of graphene from graphite provide the most realistic and scalable approach to graphene materials.</para>
+      <para id="id1168050401298"> Graphene layers are held together in graphite by enormous van der Waals forces. Overcoming these forces is the major obstacle to graphite exfoliation. To date, chemical efforts at graphite exfoliation have been focused primarily on intercalation, chemical derivatization, thermal expansion, oxidation-reduction, the use of surfactants, or some combination of these. </para>
+    </section>
+    <section id="id1168038433237">
+      <title>Graphite oxide</title>
+      <para id="id1168047899115">Probably the most common route to graphene involves the production of graphite oxide (GO) by extremely harsh oxidation chemistry. The methods of Staudenmeier or Hummers are most commonly used to produce GO, a highly exfoliated material that is dispersible in water. The structure of GO has been the subject of numerous studies; it is known to contain epoxide functional groups along the basal plane of sheets as well as hydroxyl and carboxyl moieties along the edges (<link target-id="id1168047106810"/>). In contrast to other methods for the synthesis of GO, the the <emphasis effect="italics">m</emphasis>-peroxybenzoic acid (<emphasis effect="italics">m</emphasis>-CPBA) oxidation of microcrystalline synthetic graphite at room temperature yields graphite epoxide in high yield, without significant additional defects.</para>
+      <figure id="id1168047106810"><media id="id1168047106810_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-f66c.jpg" id="id1168047106810__onlineimage" width="400" print-width="3in"/>
+        </media>
+      <caption>Idealized structure proposed for graphene oxide (GO). Adapted from C. E. Hamilton, PhD Thesis, Rice University (2009). </caption></figure>
+      
+      <para id="id1168037321453"> As graphite oxide is electrically insulating, it must be converted by chemical reduction to restore the electronic properties of graphene. Chemically converted graphene (CCG) is typically reduced by hydrazine or borohydride. The properties of CCG can never fully match those of graphene for two reasons: </para>
+      <list id="id1168044301993" list-type="enumerated" number-style="arabic"><item>Oxidation to GO introduces defects. </item>
+        <item>Chemical reduction does not fully restore the graphitic structure. </item>
+      </list>
+      <para id="id1168050207236">As would be expected, CCG is prone to aggregation unless stabilized. Graphene materials produced from pristine graphite avoid harsh oxidation to GO and subsequent (incomplete) reduction; thus, materials produced are potentially much better suited to electronics applications. </para>
+      <para id="id1168047361489"> A catalytic approach to the removal of epoxides from fullerenes and SWNTs has been applied to graphene epoxide and GO. Treatment of oxidized graphenes with methyltrioxorhenium (MeReO<sub>3</sub>, MTO) in the presence of PPh<sub>3</sub> results in the oxygen transfer, to form O=PPh<sub>3</sub> and allow for quantification of the C:O ratio. </para>
+    </section>
+    <section id="id1168050499348">
+      <title>Homogeneous graphene dispersions </title>
+      <para id="id1168049033284"> An alternate approach to producing graphene materials involves the use of pristine graphite as starting material. The fundamental value of such an approach lies in its avoidance of oxidation to GO and subsequent (incomplete) reduction, thereby preserving the desirable electronic properties of graphene. There is precedent for exfoliation of pristine graphite in neat organic solvents without oxidation or surfactants. It has been reported that <emphasis effect="italics">N</emphasis>,<emphasis effect="italics">N</emphasis>-dimethylformamide (DMF) dispersions of graphene are possible, but no detailed characterization of the dispersions were reported. In contrast, Coleman and coworkers reported similar dispersions using <emphasis effect="italics">N</emphasis>-methylpyrrolidone (NMP), resulting in individual sheets of graphene at a concentration of ≤0.01 mg/mL. NMP and DMF are highly polar solvents, and not ideal in cases where reaction chemistry requires a nonpolar medium. Further, they are hygroscopic, making their use problematic when water must be excluded from reaction mixtures. Finally, DMF is prone to thermal and chemical decomposition. </para>
+      <para id="id1168044203973"> Recently, dispersions of graphene has been reported in <emphasis effect="italics">ortho</emphasis>-dichlorobenzene (ODCB) using a wide range of graphite sources. The choice of ODCB for graphite exfoliation was based on several criteria:</para>
+      <list id="id1168038324439" list-type="enumerated" number-style="arabic">
+        <item>ODCB is a common reaction solvent for fullerenes and is known to form stable SWNT dispersions. </item>
+        <item>ODCB is a convenient high-boiling aromatic, and is compatible with a variety of reaction chemistries. </item>
+        <item>ODCB, being aromatic, is able to interact with graphene <emphasis effect="italics">via</emphasis> π-π stacking. </item>
+        <item>It has been suggested that good solvents for graphite exfoliation should have surface tension values of 40 – 50 mJ/m<sup>2</sup>. ODCB has a surface tension of 36.6 mJ/m<sup>2</sup>, close to the proposed range. </item>
+      </list>
+      <para id="id1168050455380"> Graphite is readily exfoliated in ODCB with homogenization and sonication. Three starting materials were successfully dispersed: microcrystalline synthetic, thermally expanded, and highly ordered pyrolytic graphite (HOPG). Dispersions of microcrystalline synthetic graphite have a concentration of 0.03 mg/mL, determined gravimetrically. Dispersions from expanded graphite and HOPG are less concentrated (0.02 mg/mL).</para>
+      <para id="id1168051197711">High resolution transmission electron microscopy (HRTEM) shows mostly few-layer graphene (n &lt; 5) with single layers and small flakes stacked on top (<link target-id="id1168047068599"/>). Large graphitic domains are visible; this is further supported by selected area electron diffraction (SAED) and fast Fourier transform (FFT) in selected areas. Atomic force microscope (AFM) images of dispersions sprayed onto silicon substrates shows extremely thin flakes with nearly all below 10 nm. Average height is 7 - 10 nm. The thinnest are less than 1 nm, graphene monolayers. Lateral dimensions of nanosheets range from 100 – 500 nm.</para>
+      <figure id="id1168047068599"><media id="id1168047068599_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-fa11.jpg" id="id1168047068599__onlineimage" width="500" print-width="5in"/>
+        </media>
+      <caption>TEM images of single layer graphene from HOPG dispersion. (a) monolayer and few layer of graphene stacked with smaller flakes; (b) selected edge region from (a), (c) selected area from (b) with FFT inset, (d) HRTEM of boxed region in (c) showing lattice fringes with FFT inset. Adapted from C. E. Hamilton, PhD Thesis, Rice University (2009). </caption></figure>
+      
+      <para id="id1168038535759">As-deposited films cast from ODCB graphene show poor electrical conductivity, however, after vacuum annealing at 400 °C for 12 hours the films improve vastly, having sheet resistances on the order of 60 Ω/sq. By comparison, graphene epitaxially grown on Ni has a reported sheet resistance of 280 Ω/sq.</para>
+    </section>
+    <section id="id1168049998778">
+      <title>Covalent functionalization of graphene and graphite oxide </title>
+      <para id="id1168048799971">The covalent functionalization of SWNTs is well established. Some routes to covalently functionalized SWNTs include esterification/ amidation, reductive alkylation (Billups reaction), and treatment with azomethine ylides (Prato reaction), diazonium salts, or nitrenes. Conversely, the chemical derivatization of graphene and GO is still relatively unexplored. </para>
+      <para id="id1168050413491"> Some methods previously demonstrated for SWNTs have been adapted to GO or graphene. GO carboxylic acid groups have been converted into acyl chlorides followed by amidation with long-chain amines. Additionally, the coupling of primary amines and amino acids via nucleophilic attack of GO epoxide groups has been reported. Yet another route coupled isocyanates to carboxylic acid groups of GO. Functionalization of partially reduced GO by aryldiazonium salts has also been demonstrated. The Billups reaction has been performed on the intercalation compound potassium graphite (C<sub>8</sub>K), as well as graphite fluoride, and most recently GO. Graphene alkylation has been accomplished by treating graphite fluoride with alkyllithium reagents. </para>
+      <para id="id1168050467338"> ODCB dispersions of graphene may be readily converted to covalently functionalize graphene. Thermal decomposition of benzoyl peroxide is used to initiate radical addition of alkyl iodides to graphene in ODCB dispersions. </para>
+
+
+
+<equation id="eip-1144"><media id="id1144_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics3-bfa9.jpg" id="id1144__onlineimage" width="400" print-width="4in"/>
+</media>
+</equation>
+
+     
+
+      <para id="id1168038340267">Additionally, functionalized graphene with nitrenes generated by thermal decomposition of aryl azides </para>
+
+
+
+<equation id="eip-1145"><media id="id1145_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics4-187f.jpg" id="id1145__onlineimage" width="400" print-width="4in"/>
+</media>
+</equation>
+
+
+
+    </section>
+    <section id="id1168051192514">
+      <title>Bibliography</title>
+      <list id="id1168038334362" list-type="bulleted">
+        <item>P. Blake, P. D. Brimicombe, R. R. Nair, T. J. Booth, D. Jiang, F. Schedin, L. A. Ponomarenko, S. V. Morozov, H. F. Gleeson, E. W. Hill, A. K. Geim, and K. S. Novoselov, <emphasis effect="italics">Nano Lett</emphasis>., 2008, <emphasis effect="bold">8</emphasis>, 1704.</item>
+        <item>J. Chattopadhyay, A. Mukherjee, C. E. Hamilton, J.-H. Kang, S. Chakraborty, W. Guo, K. F. Kelly, A. R. Barron, and W. E. Billups, <emphasis effect="italics">J. Am. Chem. Soc</emphasis>., 2008, <emphasis effect="bold">130</emphasis>, 5414. </item>
+        <item>G. Eda, G. Fanchini, and M. Chhowalla, <emphasis effect="italics">Nat. Nanotechnol</emphasis>., 2008, <emphasis effect="bold">3</emphasis>, 270.<emphasis effect="bold"/></item>
+        <item>M. Y. Han, B. Ozyilmaz, Y. Zhang, and P. Kim, <emphasis effect="italics">Phys. Rev. Lett</emphasis>., 2008, <emphasis effect="bold">98</emphasis>, 206805.</item>
+        <item>Y. Hernandez, V. Nicolosi, M. Lotya, F. M. Blighe, Z. Sun, S. De, I. T. McGovern, B. Holland, M. Byrne, Y. K. Gun’Ko, J. J. Boland, P. Niraj, G. Duesberg, S. Krishnamurthy, R. Goodhue, J. Hutchinson, V. Scardaci, A. C. Ferrari, and J. N. Coleman, <emphasis effect="italics">Nat. Nanotechnol.</emphasis>, 2008, <emphasis effect="bold">3</emphasis>, 563.</item>
+        <item>W. S. Hummers and R. E. Offeman, <emphasis effect="italics">J. Am. Chem. Soc</emphasis>., 1958, <emphasis effect="bold">80</emphasis>, 1339.</item>
+        <item>L. Jiao, L. Zhang, X. Wang, G. Diankov, and H. Dai, <emphasis effect="italics">Nature</emphasis>, 2009, <emphasis effect="bold">458</emphasis>, 877.</item>
+        <item>D. V. Kosynkin, A. L. Higginbotham, A. Sinitskii, J. R. Lomeda, A. Dimiev, B. K. Price, and J. M. Tour, <emphasis effect="italics">Nature</emphasis>, 2009, <emphasis effect="bold">458</emphasis>, 872. </item>
+        <item>D. Li, M. B. Mueller, S. Gilje, R. B. Kaner, and G. G. Wallace, <emphasis effect="italics">Nat. Nanotechnol</emphasis>., 2008, <emphasis effect="bold">3</emphasis>, 101. </item>
+        <item>S. Niyogi, E. Bekyarova, M. E. Itkis, J. L. McWilliams, M. A. Hamon, and R. C. Haddon, <emphasis effect="italics">J. Am. Chem. Soc</emphasis>., 2006, <emphasis effect="bold">128</emphasis>, 7720. </item>
+        <item>Y. Si and E. T. Samulski, <emphasis effect="italics">Nano Lett</emphasis>., 2008, <emphasis effect="bold">8</emphasis>, 1679.</item>
+        <item>L. Staudenmaier, <emphasis effect="italics">Ber. Dtsch. Chem. Ges</emphasis>., 1898, <emphasis effect="bold">31</emphasis>, 1481.</item>
+      </list>
+    </section>
+  </content>
+</document>

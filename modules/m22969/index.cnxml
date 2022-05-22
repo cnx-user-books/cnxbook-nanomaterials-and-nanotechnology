@@ -1,0 +1,98 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Oxide Nanoparticles</title>
+  <metadata>
+  <md:content-id>m22969</md:content-id><md:title>Oxide Nanoparticles</md:title>
+  <md:abstract/>
+  <md:uuid>113e8bf2-204e-433f-91ba-da46a2adbf26</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171226871485">
+      <title>Introduction to oxide nanoparticles </title>
+      <para id="id1171226640896">The most widespread route to fabrication of metal oxide nanoparticles involves the “bottom-up” approach involving the precipitation from aqueous solution from metal salts. Organometallic species can also be used, but due to their cost and the difficulty in manipulating these compounds, they are used less frequently. An alternative “top-down” approach has been demonstrated for aluminum and iron oxide nanoparticles; however, it is possible that this methodology could be extended to other oxides. </para>
+      
+    </section>
+    <section id="id1171225364457">
+      <title>From molecular species to nanoparticles</title>
+      <para id="id1171226919141">Hydroxide, oxyhydroxide or hydrated oxide solid phases obtained via precipitation are made of particles whose average size may range from a few nanometers to a few microns. Particle morphology may vary depending on synthesis conditions. Moreover, aging in aqueous solution may bring about significant dimensional, morphological and structural changes.</para>
+      <section id="id1171231224880">
+        <title>Use of metal salts</title>
+        <para id="id1171227783051">The dissolution of metal salts in water results in the formation of solvated coordination compounds in which the chemistry of such complexes, and especially their acid behavior, provides a framework for understanding how the solid (oxide) forms <emphasis effect="italics">via</emphasis> polycondensation. The binding of water molecules to the metal cation results in the increase in the acidity such that they tend to be deprotonate spontaneously according to the hydrolysis equilibrium </para>
+        <para id="id1171225380139">[M(H<sub>2</sub>O)<sub>n</sub>]<sup>z+</sup> + h H<sub>2</sub>O  → [M(OH)<sub>h</sub>(H<sub>2</sub>O)<sub>n-h</sub>]<sup>(z-h)+</sup> + h H<sub>3</sub>O<sup>+</sup></para>
+        <para id="id1171225313444">or by the neutralisation with a base, </para>
+        <para id="id1171229950171">[M(H<sub>2</sub>O)<sub>n</sub>]<sup>z+</sup> + h HO-  → [M(OH)<sub>h</sub>(H<sub>2</sub>O)<sub>n-h</sub>]<sup>(z-h)+</sup> + h H<sub>2</sub>O</para>
+        <para id="id1171226576628">in which h is the hydroxylation ratio of the cation. The resulting hydroxylated complexes condense <emphasis effect="italics">via </emphasis>two basic mechanisms of nucleophilic substitution, depending on the nature of the coordination sphere of the cations. Condensation of aquohydroxo complexes proceeds by elimination of water and formation of hydroxo bridges (olation), while for oxohydroxo complexes, condensation proceedes <emphasis effect="italics">via </emphasis>the formation of oxo bridges (oxolation). </para>
+        <para id="id1171226757940">In order to understand how small particles form and what role the experimental parameters play on their characteristics and on evolution, it is useful to review the kinetic aspects of condensation reactions. The precipitation of a solid involves four kinetic steps. </para>
+        <list id="eip-542" list-type="enumerated" number-style="lower-roman"><item>Formation of the zero-charge precursor. [M(OH)<sub>z</sub>(H<sub>2</sub>O)<sub>n-z</sub>]<sup>0</sup>, which is able to condense and form a solid phase.</item>
+<item>Creation of nuclei, through condensation of zero-charge precursors.</item>
+<item>Growth of the nuclei through addition of matter, until the primary particle stage is reached.</item>
+<item>Nucleation and growth steps form particles under kinetic control following a reaction path of minimum activation energy under conditions imposed to the system (acidity, concentration, temperature), but the products are not necessarily thermodynamically stable. </item>
+
+</list>
+        
+        
+        
+        <para id="id1171229175100">Aging of the suspensions, which may take place over a long time scale (hours, days or months), allows the system to tend toward, or reach stability, and it is often associated with modifications of some physical or chemical characteristics of the particles. </para>
+      </section>
+      <section id="id1171227715558">
+        <title>Use of metallo-oragnic compounds</title>
+        <para id="id1171227951066">Metallo-organic compounds, and especially metal alkoxides, are used in so-called sol-gel chemistry of oxide nanomaterials. Metal alkoxides are also precursors of hybrid organic-inorganic materials, because such compounds can be used to introduce an organic part inside the mineral component. Sol-gel chemistry mainly involves hydrolysis and condensation reactions of alkoxides M(OR)<sub>n</sub> in solution in an alcohol ROH, schematically represented as follows. </para>
+        <para id="id1171226415362">M(OR)<sub>n</sub> + n H<sub>2</sub>O → M(OH)<sub>n</sub> + n ROH →  MO<sub>n/2</sub> + <sup>n</sup>/<sub>2</sub> H<sub>2</sub>O</para>
+        <para id="id1171225401577">These reactions, hydroxylation and condensation, proceed by nucleophilic substitution of alkoxy or hydroxy ligands by hydroxylated species according to.</para>
+        <para id="id1171227625838">M(OR)<sub>n</sub> + x HOX → [M(OR)<sub>n-x</sub>(OX)<sub>x</sub>] + n ROH</para>
+        <para id="id1171225315687">If X = H, the reaction is a hydroxylation. For X = M, it is a condensation and if X represents an organic or inorganic ligand, the reaction is a complexation. The reactivity of metal alkoxides towards hydrolysis and condensation is governed by three main parameters: the electrophilic character of the metal (its polarizing power), the steric effect of the alkoxy ligands and the molecular structure of the metal alkoxide. Generally, the reactivity of alkoxides towards substitutions increases when the electronegativity of the metal is low and its size is high. The reactivity of metal alkoxides is also very sensitive to the steric hindrance of the alkoxy groups. It strongly decreases when the size of the OR group increases. The acidity of the medium also influences the rate of hydrolysis and condensation reaction to a great extent as well as the morphology of the products. </para>
+      </section>
+      <section id="id1171227724119">
+        <title>Non-hydrolytic routes</title>
+        <para id="id1171229901413">Non hydrolytic sol-gel chemistry has proved to be a promising route to metal oxides, and it has become a widely explored approach to synthesize metal oxide nanoparticles under various conditions. These methods involve either the self-condensation of various metal compounds or the thermolysis of metal coordination compounds. However, since water may be produced by the thermolysis of the organic derivatives, a hydrolytic pathway cannot be excluded. One of the most studied approaches involves the thermolytic decomposition of an inorganic complex at high temperatures. Two approaches include: the decomposition of Fe(acac)<sub>3</sub> or FeCl<sub>3</sub> and M(acac)<sub>2</sub> salts, and the decomposition of Fe(CO)<sub>5</sub> and M(acac)<sub>2</sub> salts. For simple oxides (e.g., Fe<sub>3</sub>O<sub>4</sub>) the precursor, e.g., Fe(acac)<sub>3</sub>, is added to a suitable solvent heated to a temperature that allows for the rapid decomposition of the precursor. The choice of temperature and the temperature control (i.e., variation of the temperature during the reaction) are important in defining the resulting nanoparticle size and size distribution. By this method highly uniform nanoparticles can be obtained (<link target-id="id1171226510210"/>). 
+
+</para>
+        <figure id="id1171226510210"><media id="id1171226510210_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 5-4d1e.png" id="id1171226510210__onlineimage" width="400" print-width="3in"/>
+          </media>
+        <caption>TEM image of 4 nm Fe<sub>3</sub>O<sub>4</sub> nanoparticles prepared from the thermal decomposition of Fe(acac)<sub>3</sub>. </caption></figure>
+        
+        <para id="id1171227715052">In addition to simple metal oxides (M<sub>x</sub>O<sub>y</sub>) a range of mixed metal oxides can also be prepared. For example, nanospheres and nanocubes of cobalt ferrite can be obtained from cobalt and iron acetylacetonates, Co(acac)<sub>2</sub> and Fe(acac)<sub>3</sub> in solution in phenyl ether and hexadecanediol in the presence of oleic acid and oleylamine. Heating at 260 °C forms CoFe<sub>2</sub>O<sub>4</sub> spherical nanocrystals with a diameter of 5 nm. These nanocrystals serve as seeds for a new growth as the second step of the synthesis, giving perfect nanocubes from 8 to 12 nm, depending on the conditions. Nanocubes in the 8 nm range can also be used as seeds to obtain spheres. The tuning of the shape of ferrite nanocrystals is managed by the parameters of growth such as heating rate, temperature, reaction time, ratio of seed to precursors, and ratio of oleic acid, acting as surfactant stabilizing the nanocrystal, to oleylamine providing basic conditions needed for the formation of spinel oxide. </para>
+        <para id="id1171227857497">Various morphologies of numerous oxide nanocrystals including Fe, Co, Mn ferrites, Co<sub>3</sub>O<sub>4</sub>, Cr<sub>2</sub>O<sub>3</sub>, MnO, NiO, ZnO, and others have been obtained by pyrolysis of metal carboxylates in the presence of different fatty acids (oleic, myristic). Control over the chemical composition of the nanoparticle is readily attained through the relative concentration of reagents used for nanoparticle growth. In many systems there is a direct linear relationship between the relative composition in the nano particles and the reagent solutions used. </para>
+      </section>
+    </section>
+    <section id="id1171226857046">
+      <title>From minerals to materials</title>
+      <para id="id1171227710250">As described above the "bottom-up" approach of reacting small inorganic molecules to form oligomeric and polymeric materials and subsequently nano particles is a common approach for a wide range of metal and non-metal oxides. However, in the case of aluminum oxide nanoparticles, the relative rate of the hydrolysis and condensation reactions often makes particle size control difficult. Once the structure of alumina sol-gels (known as alumoxanes) had been determined to comprise of a boehmite-like nanoparticle core, it was proposed that alumina nanoparticles could be prepared directly from the mineral. Such a "top-down" approach represented a departure from the traditional synthetic methodologies. Thus, it has been shown that carboxylic acids (RCO<sub>2</sub>H) react with boehmite, [Al(O)(OH)]<sub>n</sub>, to yield the appropriate carboxy-alumoxane. </para>
+      <para id="id1171227763390">[Al(O)(OH)]<sub>n</sub> + HO<sub>2</sub>CR   →   [Al(O)<sub>x</sub>(OH)<sub>y</sub>(O<sub>2</sub>CR)<sub>z</sub>]<sub>n</sub></para>
+      <para id="id1171231339170">Initial syntheses were carried out using the acid as the solvent or xylene, however, subsequent research demonstrated the use of water as a solvent and acetic acid as the most convenient capping agent. A solventless synthesis has also been developed. Thus, the synthesis of alumoxane nanoparticles may be summarized as involving the reaction between dirt (boehmite), vinegar (acetic acid), and water. The function of the acid is two-fold. First, to cleave the mineral lattice and “carve out” nanoscale fragment, and second to provide a chemical cap to the fragment (<link target-id="id4525928"/>). </para>
+
+     <figure id="id4525928"><media id="id4525928_media" alt=""><image mime-type="image/jpg" src="../../media/alumoxane synth.jpg" id="id4525928__onlineimage" width="425" print-width="4in"/></media><caption>Pictorial representation of the reaction of boehmite with carboxylic acids. </caption></figure>
+      
+      <para id="id1171226559004">The carboxylate-alumoxane nanoparticles prepared from the reaction of boehmite and carboxylic acids are air and water stable. The soluble carboxylate-alumoxanes can be dip-coated, spin coated, and spray-coated onto various substrates. The size of the alumoxane nanoparticles is dependant on the substituents, the reaction conditions (concentration, temperature, time, etc.), and the pH of the reaction solution. Unlike other forms of oxide nanoparticle, the alumoxanes are not mono-dispersed but have a range of particle sizes. Also unlike other metal oxide nanoparticles, the core of the alumoxane can undergo a low temperature reaction that allows for the incorporation of other metals (e.g., Ti, La, Mo, V, Ca). This occurs by reaction of metal acetylacetenoates [M(acac)<sub>n</sub>] with the carboxylate alumoxane (<link target-id="id4525929"/>). </para>
+
+ <figure id="id4525929"><media id="id4525949_media" alt=""><image mime-type="image/jpg" src="../../media/M sub.jpg" id="id4525949__onlineimage" width="425" print-width="4in"/></media><caption>Schematic representation of the exchange reaction that occurs between a metal complex and the core of the alumoxane nanoparticle. </caption></figure>
+
+      <para id="id1171225477194">Given the analogous structure of Fe(O)(OH) (lepidocrocite) to boehmite, it is not surprising that the iron analog of alumoxane nanoparticles (i.e., ferroxanes) is readily prepared. Ferroxanes have been extensively characterized, and have shown to have identical structural features to alumoxanes and undergo similar exchange reactions. </para>
+      
+    </section>
+    <section id="id1171225656591">
+      <title>Bibliography</title>
+      <list id="eip-609"><item>
+A. W. Apblett, A. C. Warren, and A. R. Barron, <emphasis effect="italics">Chem. Mater.</emphasis> , 1992, <emphasis effect="bold"> 4</emphasis>, 167.</item>
+<item>R. L. Callender and A. R. Barron, <emphasis effect="italics">J. Am. Ceram. Soc.</emphasis> , 2000, <emphasis effect="bold"> 83</emphasis>, 1777.</item>
+<item>R. L. Callender, C. J. Harlan, N. M. Shapiro, C. D. Jones, D. L. Callahan, M. R. Wiesner, R. Cook, and A. R. Barron, <emphasis effect="italics">Chem. Mater.</emphasis> , 1997, <emphasis effect="bold"> 9</emphasis>, 2418.</item>
+<item>C. Crouse and A. R. Barron, <emphasis effect="italics">J. Mater. Chem.</emphasis> , 2008, <emphasis effect="bold"> 18</emphasis>, 4146.</item>
+<item>
+S. Han, T. Yu, J. Park, B. Koo, J. Joo, T. Hyeon, S. Hong, and J. Im, <emphasis effect="italics">J. Phys. Chem. B</emphasis> , 2004, <emphasis effect="bold"> 108</emphasis>, 8091.</item>
+<item>J. Rose, M. M. Cortalezzi-Fidalgo, S. Moustier, C. Magnetto, C. D. Jones, A. R. Barron, M. R. Wiesner, and J. Y. Bottero, <emphasis effect="italics">Chem. Mater.</emphasis> , 2002, <emphasis effect="bold"> 14</emphasis>, 621.</item>
+<item>N. Shahid and A. R. Barron, <emphasis effect="italics">J. Mater. Chem.</emphasis> , 2004, <emphasis effect="bold"> 14</emphasis>, 1235.
+Y. W. Jun, J. S. Choi, and J. Cheon, <emphasis effect="italics">Angew. Chem. Int. Ed.</emphasis> , 2006, <emphasis effect="bold"> 45</emphasis>, 2.</item>
+<item>A. Vioux, <emphasis effect="italics">Chem. Mater.</emphasis>, 1997, <emphasis effect="bold"> 9</emphasis>, 2292.</item>
+</list>
+      
+      
+      
+      
+      
+      
+      
+      
+    </section>
+  </content>
+</document>

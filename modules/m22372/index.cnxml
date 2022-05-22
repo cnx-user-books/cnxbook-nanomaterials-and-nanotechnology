@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Introduction to Nanoparticle Synthesis</title>
+  <metadata>
+  <md:content-id>m22372</md:content-id><md:title>Introduction to Nanoparticle Synthesis</md:title>
+  <md:abstract/>
+  <md:uuid>b167ffa7-8d26-41dc-b619-b62640bdbe06</md:uuid>
+</metadata>
+
+<content>
+   
+      
+      <para id="id1170627482977">The fabrication of nanomaterials with strict control over size, shape, and crystalline structure has inspired the application of nanochemistry to numerous fields including catalysis, medicine, and electronics. The use of nanomaterials in such applications also requires the development of methods for nanoparticle assembly or dispersion in various media. A majority of studies have been aimed at dispersion in aqueous media aimed at their use in medical applications and studies of environmental effects, however, the principles of nanoparticle fabrication and functionalization of nanoparticles transcends their eventual application. Herein, we review the most general routes to nanoparticles of the key types that may have particular application within the oil and gas industry for sensor, composite, or device applications. </para>
+      <para id="id1170636843731">Synthesis methods for nanoparticles are typically grouped into two categories: “top-down” and “bottom-up”. The first involves division of a massive solid into smaller portions. This approach may involve milling or attrition, chemical methods, and volatilization of a solid followed by condensation of the volatilized components. The second, “bottom-up”, method of nanoparticle fabrication involves condensation of atoms or molecular entities in a gas phase or in solution. The latter approach is far more popular in the synthesis of nanoparticles. </para>
+      <para id="id1170632078297">Dispersions of nanoparticles are intrinsically thermodynamically metastable, primarily due to their very high surface area, which represents a positive contribution to the free enthalpy of the system. If the activation energies are not sufficiently high, evolution of the nanoparticle dispersion occurs causing an increase in nanoparticle size as typified by an Ostwald ripening process. Thus, highly dispersed nanoparticles are only kinetically stabilized and cannot be prepared under conditions that exceed some threshold, meaning that so-called “soft-chemical” or “<emphasis effect="italics">chemie duce</emphasis>” methods are preferred. In addition, the use of surface stabilization is employed in many nanomaterials to hinder sintering, recrystallization and aggregation. </para>
+  
+
+    <section id="id1170629713448">
+      <title>Bibliography</title>
+      <list id="eip-635"><item>J. Gopalakrishnan, <emphasis effect="italics">Chem. Mater</emphasis>., 1995, <emphasis effect="bold">7</emphasis>, 1265.</item>
+</list>
+    </section>
+  </content>
+</document>
