@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Andrew R. Barron">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10700</md:content-id>
     <md:title>Nanomaterials and Nanotechnology </md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>7b4dfcf8-b28e-4141-8f2f-1ff39052669f</md:uuid>
-<md:slug>nanomaterials-and-nanotechnology</md:slug>
-</metadata>
+    <md:slug>nanomaterials-and-nanotechnology</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>History of Nanotechnology</md:title>
